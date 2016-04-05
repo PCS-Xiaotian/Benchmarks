@@ -27,7 +27,7 @@ weight_decay: 0.0005 # def: 0.0005
 
 # Directories
 label_folder: /ilsvrc12/parsed_data/iter200_c01b/labels/
-mean_file: /ilsvrc12/parsed_data/iter200_c01b/labels/misc/img_mean.npy
+mean_file: /ilsvrc12/parsed_data/iter200_c01b/misc/img_mean.npy
 weights_dir: ./weight/  # directory for saving weights and results
 
 snapshot_freq: 1  # frequency of saving weights
